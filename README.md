@@ -1,29 +1,28 @@
 # 🏦 Banking Information System
 
-## 📖 Overview
-
-The Banking Information System is a console-based Java application developed using Core Java. It allows users to create accounts, log in securely, perform transactions, transfer money, change passwords, and store account information using file handling.
+A console-based Banking Information System developed using Core Java.
 
 ---
 
-## ✨ Features
+## 📌 Features
 
-- Register New Account
+- User Registration
 - Secure Login
 - Deposit Money
 - Withdraw Money
-- Check Balance
+- Balance Inquiry
 - Transaction History
-- Transfer Funds
+- Fund Transfer
+- Account Details
 - Change Password
-- Persistent Data Storage using File Handling
+- File Handling
 
 ---
 
 ## 🛠 Technologies Used
 
 - Java
-- Object-Oriented Programming (OOP)
+- OOP
 - ArrayList
 - File Handling
 - VS Code
@@ -45,40 +44,52 @@ Banking-Information-System
 
 ---
 
-## ▶️ How to Run
+## 📸 Project Screenshots
 
-1. Compile all Java files.
-2. Run `Main.java`.
-3. Register a new account.
-4. Login using the generated account number.
-5. Perform banking operations.
+### Main Menu
+
+![Home](screenshots/HomeMenu.png)
+
+### Registration
+
+![Register](screenshots/Registration.png)
+
+### Login
+
+![Login](screenshots/Login.png)
+
+### Deposit
+
+![Deposit](screenshots/Deposit.png)
+
+### Withdraw
+
+![Withdraw](screenshots/Withdraw.png)
+
+### Transfer Funds
+
+![Transfer](screenshots/TransferFunds.png)
+
+### Transaction History
+
+![Transaction](screenshots/TransactionHistory.png)
+
+### Account Details
+
+![Details](screenshots/AccountDetails.png)
 
 ---
 
-## 📌 Features Implemented
+## ▶ How to Run
 
-✔ Registration
+Compile all Java files.
 
-✔ Login
-
-✔ Deposit
-
-✔ Withdraw
-
-✔ Balance Inquiry
-
-✔ Transaction History
-
-✔ Transfer Funds
-
-✔ Change Password
-
-✔ File Handling
+Run Main.java.
 
 ---
 
 ## 👨‍💻 Author
 
-**Kasani Kiran Sai**
+Kasani Kiran Sai
 
-Core Java Internship Project – 2026
+Core Java Internship Project
